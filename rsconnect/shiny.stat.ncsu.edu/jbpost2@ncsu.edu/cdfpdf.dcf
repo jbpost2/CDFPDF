@@ -1,0 +1,13 @@
+name: cdfpdf
+title: CDFPDF
+username: jbpost2@ncsu.edu
+account: jbpost2@ncsu.edu
+server: shiny.stat.ncsu.edu
+hostUrl: https://shiny.stat.ncsu.edu/__api__
+appId: 50
+bundleId: 85
+url: https://shiny.stat.ncsu.edu/jbpost2/CDFPDF/
+when: 1677182478.25031
+lastSyncTime: 1677182478.25032
+asMultiple: FALSE
+asStatic: FALSE
